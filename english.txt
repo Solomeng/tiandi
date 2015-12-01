@@ -668,23 +668,7 @@
 		"DOTA_Tooltip_ability_item_zhandao_05_Description"				"开启魔世栈道,挑战来自魔世的怪物,有几率获得魔世装备"
 
 
-		//<font color='#9ACD32'></font>//#9ACD32绿色
-		//<strong></strong>
-		//<font color='#00B2EE'></font>//#00B2EE蓝色
-		//<font color='#CD00CD'></font>  紫色
-		//<font color='#FF0000'></font>		红色
-		//<font color='#EE7600'></font> 橙色
-        //"DOTA_Tooltip_ability_QC_liangyi_02_attack"      	    "%攻击力百分比加成："
-        //"DOTA_Tooltip_ability_QC_liangyi_02_Note0"            "只有攻击前摇结束才能加护甲"
-        // "DOTA_Tooltip_ability_QC_liangyi_02_Note1"           "强制停止攻击前摇不算数"
- 
-        // "DOTA_Tooltip_modifier_QC_liangyi_02"       			"我的技能1"
-        // "DOTA_Tooltip_modifier_QC_liangyi_02_Description"        "攻击力获得%dMODIFIER_PROPERTY_DAMAGEOUTGOING_PERCENTAGE%%%加成"
-        //"DOTA_Tooltip_modifier_QC_liangyi_02_buff_2"        "我的技能1"
-        //"DOTA_Tooltip_modifier_QC_liangyi_02_buff_2_Description"        "获得护甲加成"
 
-      <font color='#EE7600></font> 橙色
-     
 	}
 }
    	
