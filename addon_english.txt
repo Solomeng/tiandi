@@ -51,7 +51,7 @@
         "npc_boss_duanshenfeng"                         	 "段神锋"
         "npc_boss_shaliya"                                      "莎莉亚"
         "npc_boss_mocangli"                                     "莫仓离"
-        "npc_boss_digui"                                          "帝鬼"
+        "npc_boss_digui"                                          "Ghost emperor"
         "npc_boss_finaboss"                                         "Boss"
         "npc_jianming"                                      "剑铭"
         "npc_yuanfeng"                                      "缘风"
@@ -67,11 +67,11 @@
         "npc_langwangzhua_xiaoguai"                         "Energy Pack"
         "npc_youlingmodao"                                  "Ghost knife"
         "npc_youlingmodao_xiaoguai"                         "Sword book"
-        "npc_fenyun_level1_xiaoguai1"                       "level1-小怪"
+        "npc_fenyun_level1_xiaoguai1"                       "level1-creep"
         "npc_fenyun_level1_boss"                            "level1-boss"
-        "npc_fenyun_level2_xiaoguai"                        "level2-小怪"
+        "npc_fenyun_level2_xiaoguai"                        "level2-creep"
         "npc_fenyun_level2_boss"                            "level2-boss"
-        "npc_fenyun_level3_xiaoguai"                        "level3-小怪"
+        "npc_fenyun_level3_xiaoguai"                        "level3-creep"
         "npc_fenyun_level3_boss1"                           "level3-boss1"
         "npc_fenyun_level3_boss2"                           "level3-boss2"
 
@@ -100,7 +100,7 @@
         "DOTA_Tooltip_ability_QC_liangyi_02_damage"       		"基础魔法伤害："
         "DOTA_Tooltip_ability_QC_liangyi_02_inip"              "damage related to <font color='#FF0000'>intelligence</font> multiplier"
         
-        "DOTA_Tooltip_ability_normalability_tobase"             "回城"
+        "DOTA_Tooltip_ability_normalability_tobase"             "Teleport"
 		
 		"DOTA_Tooltip_ability_QC_bagua_01"						夕照古峰"
 		"DOTA_Tooltip_ability_QC_bagua_01_Description"			"The target of 0.1 seconds stun enemy, weaken enemy spells and cause significant slowing effect"
