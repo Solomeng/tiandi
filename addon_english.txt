@@ -45,8 +45,8 @@
 		"npc_shuaqian_1"                                      "gold1"
 		"npc_xueburan_shengji_01"                             " blood sword "
 		"npc_suhuanzhen"                                      "素"
-		"npc_leishou"                                         "雷兽"
-		"npc_boss_xuanhu"                                     "玄狐"
+		"npc_leishou"                                         "the beast"
+		"npc_boss_xuanhu"                                     "the fox"
 		"npc_boss_dihuatiye"                                  "blood-sworld3"
         "npc_boss_duanshenfeng"                         	 "段神锋"
         "npc_boss_shaliya"                                      "莎莉亚"
@@ -97,7 +97,7 @@
 		"DOTA_Tooltip_ability_QC_liangyi_02"					"碧潭映月"
 		"DOTA_Tooltip_ability_QC_liangyi_02_Description"        "碧潭映月会对它路线上最近一名敌人造成一次性魔法伤害"
        	"DOTA_Tooltip_ability_QC_liangyi_02_Lore"        		"很耗蓝！！"
-        "DOTA_Tooltip_ability_QC_liangyi_02_damage"       		"基础魔法伤害："
+        "DOTA_Tooltip_ability_QC_liangyi_02_damage"       		"Basic magical damage："
         "DOTA_Tooltip_ability_QC_liangyi_02_inip"              "damage related to <font color='#FF0000'>intelligence</font> multiplier"
         
         "DOTA_Tooltip_ability_normalability_tobase"             "Teleport"
@@ -109,7 +109,7 @@
 		"DOTA_Tooltip_ability_QC_bagua_01_manacost"				"base mana cost"
 		"DOTA_Tooltip_ability_QC_bagua_01_mokang_reduce"		"%Unit magic resistance decreases"
 
-		"DOTA_Tooltip_QC_bagua_01_chengmo"        				"The unit was silent, and reduce the movement speed and the magic resistance "
+		"DOTA_Tooltip_QC_bagua_01_chengmo"        				"Silent the target, and reduce the movement speed and the magic resistance "
 
 		"DOTA_Tooltip_ability_QC_shengtaiji_02"						"潮信双涛"	
 		"DOTA_Tooltip_ability_QC_shengtaiji_02_Description"			"To itself as the center, per second to nearby enemy cause based on their own <font color='#FF0000'> intelligence</font>, and slows the movement around the enemy's attack"
