@@ -721,13 +721,13 @@
 		"DOTA_Tooltip_ability_item_moshi_weiduandadetiejing_Description" 	" A piece of Iron from the Hell\n Active: Deals magical damage to one nearby unit randomly \n can combine with <font color='#00B2EE'> Skull Curse </font>, become Fine Iron " 
 		"DOTA_Tooltip_ability_item_moshi_weiduandadetiejing_basedmg" 		"Damage" 
 		"DOTA_Tooltip_ability_item_moshi_weiduandadetiejing_zhilixishu" 	" Intelligence multiplier" 
-		"DOTA_Tooltip_ability_item_moshi_weiduandadetiejing_intellect"		" Increase Intelligence" 
+		"DOTA_Tooltip_ability_item_moshi_weiduandadetiejing_intellect"		"+Increase Intelligence" 
 
 		"DOTA_Tooltip_ability_item_moshi_tiejing"					" Fine Iron" 
 		"DOTA_Tooltip_ability_item_moshi_tiejing_Description" "Could combine with<font color='#00B2EE'> Hammersmith's scroll </font>(Drop in Thunder Mountain)and<font color='#00B2EE'> Blademaster's Blade (Summon in secrest shop on the top right corner)</font>\n A piece of Iron from the Hell \n Passive: Deals magical damage to all nearby units every 5 seconds" 
-		"DOTA_Tooltip_ability_item_moshi_tiejing_basedmg" 					"Damage " 
+		"DOTA_Tooltip_ability_item_moshi_tiejing_basedmg" 					"+Damage " 
 		"DOTA_Tooltip_ability_item_moshi_tiejing_zhilixishu" 				"Intelligence multiplier " 
-		"DOTA_Tooltip_ability_item_moshi_tiejing_intellect" 				" Increase Intelligence" 
+		"DOTA_Tooltip_ability_item_moshi_tiejing_intellect" 				"+Increase Intelligence" 
 
 
 		"DOTA_Tooltip_ability_item_cailiao_kusuizhouyuan" 					" Skull Curse" 
