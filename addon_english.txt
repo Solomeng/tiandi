@@ -2,7 +2,7 @@
 {
 	"Language"		"English"
 	"Tokens"
-	{		
+	{		changelle
 			//==============================================================================================
 		//this item name is denifine by "you're my a little apple"(steam id)
 		//Correction made by "赤い彗星"(steam id)
@@ -19,13 +19,14 @@
 		//狼王爪 King Wolf's claw  //魔之甲	Rock armor   		//幽灵魔刀  Ghost knife 		//基地 base
 		//紫陨 Purple meteorites	//修罗谱 Armor upgrade Blood seal
 		//燕虞衣  swallow clothes	剑鸣衣 Imperial clothes 缘风衣 Luck clothes 花落无痕宝衣 Flower clothes 百花布 Flower cloth
-		//天宫皮革 Leather 神魔一念 Wen's mindswallow
+		//天宫皮革 Leather 神魔一念 Wen's mind	空冥决 swordmanship
 		//增灵器  Energy Pack 天下第一枪 No.1 spear 血之禁印 Blood seal 啸灵枪 ultimate spear孤雁戟 swallow spear
 		//燕子剑 swallow sword 风云碑 Feng Stele 天擎峡Sky gorge 还珠楼gem building
 		//破空飞灭 Death	虚绝真玄 phantom 楼主令牌 Master's token 无双剑 ultimate sword
 		//默苍离 World's keeper.Mo	玄狐 the fox 雷兽 the beast 锻神锋 blademaster.D 帝鬼：Emperor Ghost 
 		//酆都月 Nether moon	莎莉亚  Sharia 元邪皇的邪眼 evil eye 魔心鉴 evil 's heart 一连托生品 lotus
 		//同心石 Foucs stone	素还真签名 Su' s Signature  荻花叶落 SwordMaster.T 逆刃 Reverse Blade
+		//飘渺轮回 Sword Samsara 鲁家锻造书 Hammersmith's scroll  九尾风华 Unmatched Phoenix
 		//=============================================================================================================
 		"addon_game_name"			 "guard map:King Wen's legend"
  
@@ -61,7 +62,7 @@
         "npc_jianming"                                      "剑铭"
         "npc_yuanfeng"                                      "缘风"
         "npc_renxia"                                        "任侠"
-        "npc_yangbaoge"                                     "空冥决(杀我掉落)"
+        "npc_yangbaoge"                                     "空冥决 swordmanship"
         "npc_daomuzei"                                      "kill me to get rich"
         "npc_ziyun"                                         "Purple meteorites"
         "npc_xiuluopu"                                      "Armor upgrade"
@@ -285,15 +286,15 @@
 		
 		"DOTA_Tooltip_ability_item_fengyun_01"                              "area-Feng Stele challenge(level 1)"
 		"DOTA_Tooltip_ability_item_fengyun_01_Description"                  "Start normal level <font color='#FF0000'>Feng Stele challenge</font>(With the weapon and armor can consider challenge)\nkill all enemy in 60 sec to get <font color='#FF0000'>reward</font>\nright of birlth red circle<font color='#FF0000'> teleport </font> to challenge area"
-        "DOTA_Tooltip_ability_item_fengyun_01_Lore"                         "Do you dare to changelle the No.1？"		
+        "DOTA_Tooltip_ability_item_fengyun_01_Lore"                         "Do you dare to challenge the No.1？"		
         
         "DOTA_Tooltip_ability_item_fengyun_02"                              "area-Feng Stele challenge(level 2)"
         "DOTA_Tooltip_ability_item_fengyun_02_Description"                  "Start hard level <font color='#FF0000'>Feng Stele challenge</font>(Equipped with the king of bone may consider challenge)\nkill all enemy in 60 sec to get<font color='#FF0000'>reward</font>\nright of birlth red circle<font color='#FF0000'> teleport </font> to challenge area"
-        "DOTA_Tooltip_ability_item_fengyun_02_Lore"                         "Do you dare to changelle the No.1?"
+        "DOTA_Tooltip_ability_item_fengyun_02_Lore"                         "Do you dare to challenge the No.1?"
         
         "DOTA_Tooltip_ability_item_fengyun_03"                              "area-Feng Stele challenge(level 3)"
         "DOTA_Tooltip_ability_item_fengyun_03_Description"                  "Start Nightmare level<font color='#FF0000'>Feng Stele challenge</font>(Equipped with epic item may consider challenge)\nkill all enemy in 60 sec to get<font color='#FF0000'>reward</font>\nright of birlth red circle<font color='#FF0000'> teleport </font> to challenge area"
-        "DOTA_Tooltip_ability_item_fengyun_03_Lore"                         "Do you dare to changelle the No.1?"
+        "DOTA_Tooltip_ability_item_fengyun_03_Lore"                         "Do you dare to challenge the No.1?"
         
         "DOTA_Tooltip_ability_item_fengyun_reward01"                        "Feng Stele challenge(level 1) Reward"
         "DOTA_Tooltip_ability_item_fengyun_reward01_Description"            "Active: Use to get reward,Have chance to get epic item!"
@@ -444,7 +445,7 @@
 		"DOTA_Tooltip_ability_item_sword_xueburan_03_shuxingadd"			"+Increase all attributes"
 		
 		"DOTA_Tooltip_ability_item_fengyun_reward02_niren"              		  "Reverse Blade"
-		"DOTA_Tooltip_ability_item_fengyun_reward02_niren_Description"        	 "Reverse Blade, from Fend stele changelle hard level"      
+		"DOTA_Tooltip_ability_item_fengyun_reward02_niren_Description"        	 "Reverse Blade, from Fend stele challenge hard level"      
         "DOTA_Tooltip_ability_item_fengyun_reward02_niren_CleaveAttackpercent"   "%Cleave damage"
         "DOTA_Tooltip_ability_item_fengyun_reward02_niren_Attackadd"             "+basic damage"
         "DOTA_Tooltip_ability_item_fengyun_reward02_niren_crit_damage"           "%Critical Damage"
@@ -472,17 +473,17 @@
 		"DOTA_Tooltip_ability_item_qiang_xiaolingqiang_stength_add"			"+strength"
 		
 		"DOTA_Tooltip_ability_item_qiang_wanggu_xiaolingqiang"					"Death-ultimate spear"
-		"DOTA_Tooltip_ability_item_qiang_wanggu_xiaolingqiang_Description"			"<font color='#CD00CD'>when hero use ability ，The enemy by physical damage increased,5sec duration </font>"
-		"DOTA_Tooltip_ability_item_qiang_wanggu_xiaolingqiang_dmg_add"				"%The enemy by physical damage increased"
-		"DOTA_Tooltip_ability_item_qiang_wanggu_xiaolingqiang_radius"				"radius of influence"
+		"DOTA_Tooltip_ability_item_qiang_wanggu_xiaolingqiang_Description"			"<font color='#CD00CD'>when hero cast a spell,increasing physical damage taken by enermy for 5 sec </font>"
+		"DOTA_Tooltip_ability_item_qiang_wanggu_xiaolingqiang_dmg_add"				"%Extra physical damage taken by enermy"
+		"DOTA_Tooltip_ability_item_qiang_wanggu_xiaolingqiang_radius"				"radius"
 		"DOTA_Tooltip_ability_item_qiang_wanggu_xiaolingqiang_other_add"			"+Increased all attributes"
 		"DOTA_Tooltip_ability_item_qiang_wanggu_xiaolingqiang_stength_add"			"+strength"
 		
-		"DOTA_Tooltip_ability_item_sword_wushuang"							"无双剑"
-		"DOTA_Tooltip_ability_item_sword_wushuang_Description"				"<font color='#FF0000'>飘渺轮回</font> and <font color='#FF0000'>楼主令牌</font>to upgrade \n<font color='#CD00CD'>飘渺剑法的真谛，就是无尽的至极</font>"
-		"DOTA_Tooltip_ability_item_sword_wushuang_healthadd"				"+HPMAX"
-		"DOTA_Tooltip_ability_item_sword_wushuang_armor"					"+ARMOR"
-		"DOTA_Tooltip_ability_item_sword_wushuang_Attackadd"				"+Base attack"
+		"DOTA_Tooltip_ability_item_sword_wushuang"						"Ultimate sword"
+		"DOTA_Tooltip_ability_item_sword_wushuang_Description"				"<font color='#FF0000'>Sword Samsara</font> and <font color='#FF0000'>Master's token</font>to upgrade \n<font color='#CD00CD'>The truth of sword, is ultimate</font>"
+		"DOTA_Tooltip_ability_item_sword_wushuang_healthadd"				"+MAX HP"
+		"DOTA_Tooltip_ability_item_sword_wushuang_armor"				"+ARMOR"
+		"DOTA_Tooltip_ability_item_sword_wushuang_Attackadd"				"+Base damage"
 
 		"DOTA_Tooltip_ability_item_recipe_zhishui_02"						"upgrade to  water sword 2"
 		"DOTA_Tooltip_ability_item_recipe_zhishui_02_Description"			"need <font color='#9ACD32'> water sword lv1</font>"
@@ -493,221 +494,221 @@
 		"DOTA_Tooltip_ability_item_recipe_zhishui_max"						"upgrade to  water sword max"
 		"DOTA_Tooltip_ability_item_recipe_zhishui_max_Description"			"need <font color='#9ACD32'> water sword lv4</font>"
 		
-		"DOTA_Tooltip_ability_item_recipe_mokuang_hushi"					"scroll-墨狂合成"
+		"DOTA_Tooltip_ability_item_recipe_mokuang_hushi"					"Scroll-Completed World's kepper"
 		
-		"DOTA_Tooltip_ability_item_cailiao_ziyun"							"Purple meteorites"
+		"DOTA_Tooltip_ability_item_cailiao_ziyun"						"Purple meteorites"
 		"DOTA_Tooltip_ability_item_cailiao_ziyun_Description"				"The synthesis of rare materials (The boss dropped in the bottom right hand corner)\nCould upgrade with <font color='#00B2EE'> water sword max</font> <font color='#00B2EE'>Eight party war</font>"
 		
-		"DOTA_Tooltip_ability_item_cailiao_xiuluopu"							"Armor upgrade"
-		"DOTA_Tooltip_ability_item_cailiao_xiuluopu_Description"				"In the base on the left side of the fall \n<font color='#00B2EE'>Flower clothes</font> upgrade to <font color='#CD00CD'>swallow clothes</font>"
+		"DOTA_Tooltip_ability_item_cailiao_xiuluopu"						"Armor upgrade"
+		"DOTA_Tooltip_ability_item_cailiao_xiuluopu_Description"				"In the base on the left side of the fall \n<font color='#00B2EE'>combine with Flower clothes</font> upgrade to <font color='#CD00CD'>swallow clothes</font>"
 		
-		"DOTA_Tooltip_ability_item_cailiao_jianmingyi"							"Upgrade Imperial clothes"
-		"DOTA_Tooltip_ability_item_cailiao_jianmingyi_Description"				"<font color='#CD00CD'>swallow clothes</font> upgrade to <font color='#CD00CD'> Imperial clothes</font>"
+		"DOTA_Tooltip_ability_item_cailiao_jianmingyi"						"Upgrade Imperial clothes"
+		"DOTA_Tooltip_ability_item_cailiao_jianmingyi_Description"				"combine with <font color='#CD00CD'>swallow clothes</font> upgrade to <font color='#CD00CD'> Imperial clothes</font>"
 		
-		"DOTA_Tooltip_ability_item_cailiao_yuanfengyi"							"Upgrade Luck clothes"
-		"DOTA_Tooltip_ability_item_cailiao_yuanfengyi_Description"				"<font color='#CD00CD'> Imperial clothes</font> upgrade to <font color='#CD00CD'>Luck clothes</font>"
+		"DOTA_Tooltip_ability_item_cailiao_yuanfengyi"						"Upgrade Luck clothes"
+		"DOTA_Tooltip_ability_item_cailiao_yuanfengyi_Description"				"combine with <font color='#CD00CD'> Imperial clothes</font> upgrade to <font color='#CD00CD'>Luck clothes</font>"
 		
-		"DOTA_Tooltip_ability_item_cailiao_renxiayi"						    "Upgrade Knight Cloak"
-		"DOTA_Tooltip_ability_item_cailiao_renxiayi_Description"				"<font color='#CD00CD'>Luck clothes</font> upgrade to <font color='#CD00CD'>Knight Cloak</font>"
+		"DOTA_Tooltip_ability_item_cailiao_renxiayi"						 "Upgrade Knight Cloak"
+		"DOTA_Tooltip_ability_item_cailiao_renxiayi_Description"				"combine with <font color='#CD00CD'>Luck clothes</font> upgrade to <font color='#CD00CD'>Knight Cloak</font>"
 		
 		"DOTA_Tooltip_ability_item_cailiao_tiangongpige"					"Leather"
-		"DOTA_Tooltip_ability_item_cailiao_tiangongpige_Description"			"<font color='#9ACD32'>Leather </font>marten Flower cloth Could upgrade to Flower clothes"
+		"DOTA_Tooltip_ability_item_cailiao_tiangongpige_Description"				"combine with <font color='#9ACD32'>marten and Flower cloth </font>, become Flower clothes"
 		
 		"DOTA_Tooltip_ability_item_cailiao_baihuabu"						"Flower cloth"
-		"DOTA_Tooltip_ability_item_cailiao_baihuabu_Description"			"Leather <font color='#9ACD32'>Flower cloth</font> Could upgrade to Flower clothes"
+		"DOTA_Tooltip_ability_item_cailiao_baihuabu_Description"			"combine with <font color='#9ACD32'>marten and leather</font>,become Flower clothes"
 		
-		"DOTA_Tooltip_ability_item_cailiao_diaopi"							"marten"
-		"DOTA_Tooltip_ability_item_cailiao_diaopi_Description"				"Leather Flower cloth <font color='#9ACD32'>marten</font>Could upgrade to Flower clothes"
+		"DOTA_Tooltip_ability_item_cailiao_diaopi"						"marten"
+		"DOTA_Tooltip_ability_item_cailiao_diaopi_Description"				"combine with <font color='#9ACD32'>leather and flower cloth</font>,become Flower clothes"
 		"DOTA_Tooltip_ability_item_cailiao_diaopi_armor"					"+Armor"
-		"DOTA_Tooltip_ability_item_cailiao_diaopi_Lore"						"卖的好像有点贵了，旁边就能打到marten"
+		"DOTA_Tooltip_ability_item_cailiao_diaopi_Lore"						"A bit expensive, kill wolves around may drop it"
 		
 		"DOTA_Tooltip_ability_item_tiqu_wanggulingneng"						"extraction plant-king bone energy"
-		"DOTA_Tooltip_ability_item_tiqu_wanggulingneng_Description"			"Could extractio<font color='#CD00CD'> King Wolf's paw </font><font color='#CD00CD'> Rock armor </font><font color='#CD00CD'> Ghost knife </font>anyone of them to king bone energy by use it,<font color='#FF0000'>The success rate of 33%</font>"
+		"DOTA_Tooltip_ability_item_tiqu_wanggulingneng_Description"			"Could extractio<font color='#CD00CD'> King Wolf's claw </font><font color='#CD00CD'> Rock armor </font><font color='#CD00CD'> Ghost knife </font>anyone of them to king bone energy by use it,<font color='#FF0000'>The success rate is 33%</font>"
 		
 		"DOTA_Tooltip_ability_item_sanwanggu_fumo"						"Enchant - three Kings of bone"
-		"DOTA_Tooltip_ability_item_sanwanggu_fumo_Description"			"Could upgrade with <font color='#CD00CD'> King Wolf's paw </font><font color='#CD00CD'> Rock armor </font><font color='#CD00CD'> Ghost knife </font>anyone of them by use it ,<font color='#FF0000'>The success rate of 50%</font>"
+		"DOTA_Tooltip_ability_item_sanwanggu_fumo_Description"			"Could upgrade with <font color='#CD00CD'> King Wolf's claw </font><font color='#CD00CD'> Rock armor </font><font color='#CD00CD'> Ghost knife </font>anyone of them by use it ,<font color='#FF0000'>The success rate is 50%</font>"
 		
-		"DOTA_Tooltip_ability_item_cailiao_wanggulingneng"								"king bone energy"
-		"DOTA_Tooltip_ability_item_cailiao_wanggulingneng_Description"					"Could upgrade with ultimate energy spear"
+		"DOTA_Tooltip_ability_item_cailiao_wanggulingneng"					"king bone energy"
+		"DOTA_Tooltip_ability_item_cailiao_wanggulingneng_Description"				"Could upgrade with ultimate spear"
 		
-		"DOTA_Tooltip_ability_item_cailiao_tiandihonglu"				"天地烘炉"
-		"DOTA_Tooltip_ability_item_cailiao_tiandihonglu_Description"	"Could upgrade with <font color='#EE7600'> 风华绝代 </font>to got final weapon"	
+		"DOTA_Tooltip_ability_item_cailiao_tiandihonglu"					"Giant furnace"
+		"DOTA_Tooltip_ability_item_cailiao_tiandihonglu_Description"	"Could upgrade with <font color='#EE7600'> Unmatched Weapon </font>become, final weapon"	
 
-		"DOTA_Tooltip_ability_item_cailiao_fenghaiyitie"				"锋海异铁"
-		"DOTA_Tooltip_ability_item_cailiao_fenghaiyitie_Description"				"Could upgrade with <font color='#CD00CD'>铁精</font> and <font color='#CD00CD'>鲁家锻造书</font>"
-		"DOTA_Tooltip_ability_item_cailiao_lujiaduanzaoquan"			 "鲁家锻造书"
-		"DOTA_Tooltip_ability_item_cailiao_lujiaduanzaoquan_Description" "Could upgrade with <font color='#CD00CD'>铁精</font> and <font color='#CD00CD'>锋海异铁</font>"
+		"DOTA_Tooltip_ability_item_cailiao_fenghaiyitie"					"Blademaster's blade"
+		"DOTA_Tooltip_ability_item_cailiao_fenghaiyitie_Description"				"Could upgrade with <font color='#CD00CD'>Fine Iron</font> and <font color='#CD00CD'>Hammersmith's scroll</font>"
+		"DOTA_Tooltip_ability_item_cailiao_lujiaduanzaoquan"			 "Hammersmith's scroll"
+		"DOTA_Tooltip_ability_item_cailiao_lujiaduanzaoquan_Description" "Could upgrade with <font color='#CD00CD'>Fine iron</font> and <font color='#CD00CD'>Blademaster's blade</font>"
 
-		"DOTA_Tooltip_ability_item_cailiao_weiduandaxuanjing"			"未锻打的玄晶"
+		"DOTA_Tooltip_ability_item_cailiao_weiduandaxuanjing"			"Crude Iron"
 		
-		"DOTA_Tooltip_ability_item_huanzhulou_lingpai"					"gem building-楼主令牌"
-		"DOTA_Tooltip_ability_item_huanzhulou_lingpai_Description"		"Could upgrade with<font color='#CD00CD'>飘渺轮回</font> in Shop"
+		"DOTA_Tooltip_ability_item_huanzhulou_lingpai"					"gem building-Master's token"
+		"DOTA_Tooltip_ability_item_huanzhulou_lingpai_Description"		"Could upgrade with<font color='#CD00CD'>Sword Samsara</font>, a scroll from shop is needed"
 		
-		"DOTA_Tooltip_ability_item_tingguai"                              "Stop wave attack"
-		"DOTA_Tooltip_ability_item_tingguai_Description"                  "Under attack wave will suspend 90 seconds out blame (<font color="#030303"> hero </font>  difficulty extra stop blame under 30 seconds)"
+		"DOTA_Tooltip_ability_item_tingguai"                              "Pause next wave"
+		"DOTA_Tooltip_ability_item_tingguai_Description"                  "Pause next attack wave for 90 secs (in <font color="#030303">hero</font> difficulty, it pauses 120 secs)"
 		
 		
 		
-		"DOTA_Tooltip_ability_item_cailiao_xuezhijingying"							"Blood seal"
-		"DOTA_Tooltip_ability_item_cailiao_xuezhijingying_Description"				"Call 帝鬼 in top right corner,you can got it after defate boss\nCould upgrade with <font color='#EE7600'>传承:未完成的护世之兵</font>\nFinish upgrade in <font color='#FF0000'>shop</font>"
+		"DOTA_Tooltip_ability_item_cailiao_xuezhijingying"					"Blood seal"
+		"DOTA_Tooltip_ability_item_cailiao_xuezhijingying_Description"				"Call Emperor Ghost in top right corner,you can get it after kill the boss\nCould upgrade with <font color='#EE7600'>Incomplete World's keeper</font>\n A scroll is needed from <font color='#FF0000'>shop</font>"
 
-		"DOTA_Tooltip_ability_item_piaomiao_pokongfeimie"							"破空飞灭"
-		"DOTA_Tooltip_ability_item_piaomiao_pokongfeimie_Description"				"Base on the left drop it\nCould upgrade with<font color='#00B2EE'>虚绝真玄</font> and <font color='#00B2EE'>Wen's swordsmanship</font>"
+		"DOTA_Tooltip_ability_item_piaomiao_pokongfeimie"					"Death"
+		"DOTA_Tooltip_ability_item_piaomiao_pokongfeimie_Description"				"Kill creep on the lefthand side of base may drop it\nCould combine with<font color='#00B2EE'>Phantom</font> and <font color='#00B2EE'>Wen's swordsmanship</font>,become Sword Samsara"
 		
-		"DOTA_Tooltip_ability_item_piaomiao_xujuezhenxuan"							"虚绝真玄"
-		"DOTA_Tooltip_ability_item_piaomiao_xujuezhenxuan_Description"				"Base on the left drop it\nCould upgrade with<font color='#00B2EE'>破空飞灭</font> and <font color='#00B2EE'>Wen's swordsmanship</font>"
+		"DOTA_Tooltip_ability_item_piaomiao_xujuezhenxuan"					"Phantom"
+		"DOTA_Tooltip_ability_item_piaomiao_xujuezhenxuan_Description"				"Kill creep on the lefthand side of base may drop it\nCould combine with<font color='#00B2EE'>Death</font> and <font color='#00B2EE'>Wen's swordsmanship</font>,become Sword Samsara"
 		
-		"DOTA_Tooltip_ability_item_cailiao_zenlingqi"								"Energy Pack"
-		"DOTA_Tooltip_ability_item_cailiao_zenlingqi_Description"                   "Could upgrade with<font color='#00B2EE'>孤燕戟</font>"
+		"DOTA_Tooltip_ability_item_cailiao_zenlingqi"						"Energy Pack"
+		"DOTA_Tooltip_ability_item_cailiao_zenlingqi_Description"                   "Could combine with<font color='#00B2EE'>Sallow spear</font>,become ultimate spear"
 		
-		"DOTA_Tooltip_ability_item_cailiao_tianxiadiyiqiang"						"Good spear"				
-		"DOTA_Tooltip_ability_item_cailiao_tianxiadiyiqiang_Description"			"Could upgrade with <font color='#9ACD32'>swallow sword</font>(Base on the lower left corner little strange chance to fall off)"
+		"DOTA_Tooltip_ability_item_cailiao_tianxiadiyiqiang"					"No.1 spear"				
+		"DOTA_Tooltip_ability_item_cailiao_tianxiadiyiqiang_Description"			"Could combine with <font color='#9ACD32'>swallow sword</font>(Kill crerp on the lower lefthand side corner may drop it)"
 		"DOTA_Tooltip_ability_item_cailiao_tianxiadiyiqiang_strengthadd"			"+Strength"
 		
-		"DOTA_Tooltip_ability_item_luohuawuhengyi"							"Flower clothes"
-		"DOTA_Tooltip_ability_item_luohuawuhengyi_Description"				"<font color='#9ACD32'>a necessary equipment,Could get it in the lower right corner shop </font>\nCould upgrade with <font color='#00B2EE'>Armor upgrade</font>(Droped in left side of the base )<font color='#00B2EE'>swallow clothes</font>"
+		"DOTA_Tooltip_ability_item_luohuawuhengyi"						"Flower clothes"
+		"DOTA_Tooltip_ability_item_luohuawuhengyi_Description"				"<font color='#9ACD32'>a necessary item,Could buy it in the lower right corner shop </font>\nCould combine with <font color='#00B2EE'>Armor upgrade</font>(Droped in left side of the base ), become <font color='#00B2EE'>swallow clothes</font>"
 		"DOTA_Tooltip_ability_item_luohuawuhengyi_armor"					"+Armor"
-		"DOTA_Tooltip_ability_item_luohuawuhengyi_bonus_health"				"+HPMAX"
-		"DOTA_Tooltip_ability_item_luohuawuhengyi_movespeed"				"+Basic movement speed"
-		"DOTA_Tooltip_ability_item_luohuawuhengyi_regen"					"+Basic hp heal"
+		"DOTA_Tooltip_ability_item_luohuawuhengyi_bonus_health"					"+MAX HP"
+		"DOTA_Tooltip_ability_item_luohuawuhengyi_movespeed"					"+Movement speed"
+		"DOTA_Tooltip_ability_item_luohuawuhengyi_regen"					"+hp heal"
 		
 		
 		"DOTA_Tooltip_ability_item_yanyuyi"							"swallow clothes"
-		"DOTA_Tooltip_ability_item_yanyuyi_Description"				"<font color='#00B2EE'>swallow clothes</font>\nTo the challenge to be accepted in the shop  update </font> material"
+		"DOTA_Tooltip_ability_item_yanyuyi_Description"				"<font color='#00B2EE'>swallow clothes</font>\ncould uprade to Imperial clothes</font>, need to finish Imperial clothes challenge(Purchase Scroll in shop)"
 		"DOTA_Tooltip_ability_item_yanyuyi_armor"					"+Armor"
-		"DOTA_Tooltip_ability_item_yanyuyi_bonus_health"			"+HPMAX"
-		"DOTA_Tooltip_ability_item_yanyuyi_movespeed"				"+Basic movement speed"
+		"DOTA_Tooltip_ability_item_yanyuyi_bonus_health"				"+MAX HP"
+		"DOTA_Tooltip_ability_item_yanyuyi_movespeed"					"+Movement speed"
 		"DOTA_Tooltip_ability_item_yanyuyi_regen"					"%heal hp per second"
-		"DOTA_Tooltip_ability_item_yanyuyi_allpropertyadd"			"+Increased all attributes"
+		"DOTA_Tooltip_ability_item_yanyuyi_allpropertyadd"				"+Increase all attributes"
 		
 		"DOTA_Tooltip_ability_item_jianmingyi"							" Imperial clothes"
-		"DOTA_Tooltip_ability_item_jianmingyi_Description"				"<font color='#CD00CD'> Imperial clothes</font>\nTo the challenge to be accepted in the shop  update </font>  material"
+		"DOTA_Tooltip_ability_item_jianmingyi_Description"				"<font color='#CD00CD'> Imperial clothes</font>\ncould uprade to Luck clothes</font>, need to finish Luck clothes challenge(Purchase Scroll in shop)"
 		"DOTA_Tooltip_ability_item_jianmingyi_armor"					"+Armor"
-		"DOTA_Tooltip_ability_item_jianmingyi_bonus_health"			"+HPMAX"
-		"DOTA_Tooltip_ability_item_jianmingyi_movespeed"				"+Basic movement speed"
+		"DOTA_Tooltip_ability_item_jianmingyi_bonus_health"				"+MAX HP"
+		"DOTA_Tooltip_ability_item_jianmingyi_movespeed"				"+Movement speed"
 		"DOTA_Tooltip_ability_item_jianmingyi_regen"					"%heal hp per second"
-		"DOTA_Tooltip_ability_item_jianmingyi_allpropertyadd"			"+Increased all attributes"
+		"DOTA_Tooltip_ability_item_jianmingyi_allpropertyadd"				"+Increase all attributes"
 		
-		"DOTA_Tooltip_ability_item_yuanfengyi"							"Luck clothes"
-		"DOTA_Tooltip_ability_item_yuanfengyi_Description"				"<font color='#CD00CD'>Luck clothes</font>\nCould get challenge in the shop to  update </font>  material"
+		"DOTA_Tooltip_ability_item_yuanfengyi"						"Luck clothes"
+		"DOTA_Tooltip_ability_item_yuanfengyi_Description"				"<font color='#CD00CD'>Luck clothes</font>\ncould uprade to Knight cloak</font>, need to finish Knight cloak challenge(Purchase Scroll in shop)
 		"DOTA_Tooltip_ability_item_yuanfengyi_armor"					"+Armor"
-		"DOTA_Tooltip_ability_item_yuanfengyi_bonus_health"				"+HPMAX"
-		"DOTA_Tooltip_ability_item_yuanfengyi_movespeed"				"+Basic movement speed"
+		"DOTA_Tooltip_ability_item_yuanfengyi_bonus_health"				"+MAX HP"
+		"DOTA_Tooltip_ability_item_yuanfengyi_movespeed"				"+Movement speed"
 		"DOTA_Tooltip_ability_item_yuanfengyi_regen"					"%heal hp per second"
-		"DOTA_Tooltip_ability_item_yuanfengyi_allpropertyadd"			"+Increased all attributes"
+		"DOTA_Tooltip_ability_item_yuanfengyi_allpropertyadd"				"+Increase all attributes"
 		
-		"DOTA_Tooltip_ability_item_renxiayi"							"Knight Cloak"
-		"DOTA_Tooltip_ability_item_renxiayi_Description"				"<font color='#CD00CD'>Knight Cloak</font>\nuse <font color='#FF0000'>upgrade Material- Ancient Windbreaker</font> to upgrade"
+		"DOTA_Tooltip_ability_item_renxiayi"						"Knight Cloak"
+		"DOTA_Tooltip_ability_item_renxiayi_Description"				"<font color='#CD00CD'>Knight Cloak</font>\ncould updrade, require <font color='#FF0000'>upgrade Material- Ancient Windbreaker</font>, may drop in Campaign 3 in hero difficulty"
 		"DOTA_Tooltip_ability_item_renxiayi_armor"					"+Armor"
-		"DOTA_Tooltip_ability_item_renxiayi_bonus_health"			"+HPMAX"
-		"DOTA_Tooltip_ability_item_renxiayi_movespeed"				"+Basic movement speed"
-		"DOTA_Tooltip_ability_item_renxiayi_regen"					"%heal hp per second"
-		"DOTA_Tooltip_ability_item_renxiayi_allpropertyadd"						"+Increased all attributes"
+		"DOTA_Tooltip_ability_item_renxiayi_bonus_health"			"+MAX HP"
+		"DOTA_Tooltip_ability_item_renxiayi_movespeed"				"+Movement speed"
+		"DOTA_Tooltip_ability_item_renxiayi_regen"				"%heal hp per second"
+		"DOTA_Tooltip_ability_item_renxiayi_allpropertyadd"			"+Increase all attributes"
 		
-		"DOTA_Tooltip_ability_item_fengyun_reward02_pojunyi"                       "破军衣"
-		"DOTA_Tooltip_ability_item_fengyun_reward02_pojunyi_Description"          "Active:To restore friendly heros around <font color='#FF0000'>full health </font> "
+		"DOTA_Tooltip_ability_item_fengyun_reward02_pojunyi"                       "Amry cloak"
+		"DOTA_Tooltip_ability_item_fengyun_reward02_pojunyi_Description"          "Active:Heal all neary by alies heros ro<font color='#FF0000'>full health </font> "
 		"DOTA_Tooltip_ability_item_fengyun_reward02_pojunyi_armor"                  "+Armor"
-        "DOTA_Tooltip_ability_item_fengyun_reward02_pojunyi_bonus_health"           "+HPMAX"
-        "DOTA_Tooltip_ability_item_fengyun_reward02_pojunyi_movespeed"              "+Basic movement speed"
-        "DOTA_Tooltip_ability_item_fengyun_reward02_pojunyi_regen"                  "%heal hp per second"
-        "DOTA_Tooltip_ability_item_fengyun_reward02_pojunyi_allpropertyadd"         "+Increased all attributes"
+        "DOTA_Tooltip_ability_item_fengyun_reward02_pojunyi_bonus_health"       	   "+MAX HP"
+        "DOTA_Tooltip_ability_item_fengyun_reward02_pojunyi_movespeed"          	  "+Movement speed"
+        "DOTA_Tooltip_ability_item_fengyun_reward02_pojunyi_regen"              	 "%heal hp per second"
+        "DOTA_Tooltip_ability_item_fengyun_reward02_pojunyi_allpropertyadd"     	 "+Increased all attributes"
 		
 		
-		"DOTA_Tooltip_ability_item_xinshouxunzhang"							"novices medal"
-		"DOTA_Tooltip_ability_item_xinshouxunzhang_Description"				"Active:heal 1000 hp\nCould make money in <font color='#9ACD32'> right side </font> at early states\nCould upgrade to<font color='#9ACD32'>Novice aura</font>(upgrade in shop)or upgrade to<font color='#9ACD32'>Wen's swordsmanship</font>"
+		"DOTA_Tooltip_ability_item_xinshouxunzhang"					"Novices medal"
+		"DOTA_Tooltip_ability_item_xinshouxunzhang_Description"				"Active:heal 1000 hp\nCould farm some money on the <font color='#9ACD32'> righthand side of base</font> at the beginning\nCould upgrade to<font color='#9ACD32'>Novice aura</font>(scroll in shop)or upgrade to<font color='#9ACD32'>Wen's swordsmanship</font> (with Wen's mind and swordmanship)"
 		"DOTA_Tooltip_ability_item_xinshouxunzhang_allpropertyadd"	 		"+Increased all attributes"
 		"DOTA_Tooltip_ability_item_xinshouxunzhang_healthadd"				"+heal hp"
 		
-		"DOTA_Tooltip_ability_item_shenmoyinian"							"Wen's mind"
-		"DOTA_Tooltip_ability_item_shenmoyinian_Description"				"\nActive：increases 200% attack speed and 2000 HPMAX\nCould upgrade with<font color='#9ACD32'>novices medal</font>(Shop),<font color='#9ACD32'>空冥决</font>(Base on the right side)"
-		"DOTA_Tooltip_ability_item_shenmoyinian_Lore"						"宫本总司的馈赠"
+		"DOTA_Tooltip_ability_item_shenmoyinian"					"Wen's mind"
+		"DOTA_Tooltip_ability_item_shenmoyinian_Description"				"\nActive：increase 200 attack speed and 2000 HPMAX\nCould upgrade with<font color='#9ACD32'>novices medal</font>(Shop),<font color='#9ACD32'>swordmanship</font>(on the righthand side of base)"
+		"DOTA_Tooltip_ability_item_shenmoyinian_Lore"					"宫本总司的馈赠 Gift"
 		
-		"DOTA_Tooltip_ability_item_langwangzhua"							"King Wolf's paw"
-		"DOTA_Tooltip_ability_item_langwangzhua_Description"				"<font color='#CD00CD'>one of The Lord bone(Collected three Enchanted Lord bone can be synthesized)</font>,Can <font color='#FF0000'>enchant</font>(get portal scroll in shop)or<font color='#FF0000'>extract to </font>gain king bone energy(Shop extraction plant)</font>\nActive:Increase move and attack speed"
-		"DOTA_Tooltip_ability_item_langwangzhua_agility_add"				"+Agility"
-		"DOTA_Tooltip_ability_item_langwangzhua_attack_add"					"+Agility"
+		"DOTA_Tooltip_ability_item_langwangzhua"					"King Wolf's claw"
+		"DOTA_Tooltip_ability_item_langwangzhua_Description"				"<font color='#CD00CD'>one of The Lord bones(Collect three Enchanted Lord bone, comebine to Inactived:Incompleted World' keeper)</font>,Can <font color='#FF0000'>enchant in sky gorge</font>(get teleport scroll in shop)or<font color='#FF0000'>extract to </font>gain king bone energy(extraction plant in shop)</font>\nActive:Increase move and attack speed"
+		"DOTA_Tooltip_ability_item_langwangzhua_agility_add"					"+Agility"
+		"DOTA_Tooltip_ability_item_langwangzhua_attack_add"					"+damge"
 
-		"DOTA_Tooltip_ability_item_langwangzhua_fumo"							"Enchanted:King Wolf's paw"
-		"DOTA_Tooltip_ability_item_langwangzhua_fumo_Description"				"<font color='#CD00CD'>one of The Lord bone(Collected three Enchanted Lord bone can be synthesized)</font><font color='#FF0000'>Already enchanting</font>\nActive:Increase move and attack speed"
+		"DOTA_Tooltip_ability_item_langwangzhua_fumo"					"Enchanted:King Wolf's claw"
+		"DOTA_Tooltip_ability_item_langwangzhua_fumo_Description"				"<font color='#CD00CD'>one of The Lord bones(Collect three Enchanted Lord bone, combine to Inactived:Incompleted World' keeper)</font><font color='#FF0000'>Already enchanted</font>\nActive:Increase move and attack speed"
 		"DOTA_Tooltip_ability_item_langwangzhua_fumo_agility_add"				"+Agility"
-		"DOTA_Tooltip_ability_item_langwangzhua_fumo_attack_add"				"+base damage"
+		"DOTA_Tooltip_ability_item_langwangzhua_fumo_attack_add"				"+damage"
 
-		"DOTA_Tooltip_ability_item_mozhijia"    							"Rock armor"
-		"DOTA_Tooltip_ability_item_mozhijia_Description"    				"<font color='#CD00CD'>one of The Lord bone(Collected three Enchanted Lord bone can be synthesized)</font>,Can <font color='#FF0000'>enchant</font>(get portal scroll in shop)or<font color='#FF0000'>extract to </font>gain king bone energy (Shop extraction plant)</font>"
-		"DOTA_Tooltip_ability_item_mozhijia_bonus_health"					"+MAXHP"
-		"DOTA_Tooltip_ability_item_mozhijia_dmg_block"						"Damage against"
-		"DOTA_Tooltip_ability_item_mozhijia_heal_amount"					"Be attacked when restore hp"		
+		"DOTA_Tooltip_ability_item_mozhijia"    						"Rock armor"
+		"DOTA_Tooltip_ability_item_mozhijia_Description"    				"<font color='#CD00CD'>one of The Lord bones(Collect three Enchanted Lord bone, combine to Inactived:Incompleted World' keeper)</font>,Can <font color='#FF0000'>enchant in sky gorge</font>(get teleport scroll in shop)or<font color='#FF0000'>extract to </font>gain king bone energy (extraction plant in shop)</font>"
+		"DOTA_Tooltip_ability_item_mozhijia_bonus_health"					"+MAX HP"
+		"DOTA_Tooltip_ability_item_mozhijia_dmg_block"						"Damage block"
+		"DOTA_Tooltip_ability_item_mozhijia_heal_amount"					"Restore hp while being attacked"		
 		"DOTA_Tooltip_ability_item_mozhijia_strength_add"					"+ Strength"									
 
-		"DOTA_Tooltip_ability_item_mozhijia_fumo"    							"Enchanted:Rock armor"
-		"DOTA_Tooltip_ability_item_mozhijia_fumo_Description"    				"<font color='#CD00CD'>one of The Lord bone(Collected three Enchanted Lord bone can be synthesized)</font><font color='#FF0000'>Already enchanting</font>"
-		"DOTA_Tooltip_ability_item_mozhijia_fumo_bonus_health"					"+MAXHP"
-		"DOTA_Tooltip_ability_item_mozhijia_fumo_dmg_block"						"Damage against"
-		"DOTA_Tooltip_ability_item_mozhijia_fumo_heal_amount"					"Be attacked when restore hp"		
+		"DOTA_Tooltip_ability_item_mozhijia_fumo"    						"Enchanted:Rock armor"
+		"DOTA_Tooltip_ability_item_mozhijia_fumo_Description"    				"<font color='#CD00CD'>one of The Lord bones(Collect three Enchanted Lord bone, combine to Inactived:Incompleted World' keeper)</font><font color='#FF0000'>Already enchanted</font>"
+		"DOTA_Tooltip_ability_item_mozhijia_fumo_bonus_health"					"+MAX HP"
+		"DOTA_Tooltip_ability_item_mozhijia_fumo_dmg_block"					"Damage block"
+		"DOTA_Tooltip_ability_item_mozhijia_fumo_heal_amount"					"Restore hp while being attacked"
 		"DOTA_Tooltip_ability_item_mozhijia_fumo_strength_add"					"+ Strength"									
 		
-		"DOTA_Tooltip_ability_item_youlingmodao"							"Ghost knife"
-		"DOTA_Tooltip_ability_item_youlingmodao_Description"				"<font color='#CD00CD'>one of The Lord bone(Collected three Enchanted Lord bone can be synthesized)</font>,Can <font color='#FF0000'>enchant</font>(get portal scroll in shop)or<font color='#FF0000'>extract to </font>gain king bone energy (Shop extraction plant)</font>\nActive:幽灵冲击\nthe target's spell damage increased by 50% and cause<font color='#CD00CD'>intelligence * 10 </font> spell damage"
-		"DOTA_Tooltip_ability_item_youlingmodao_bonus_intellect"			"+Increased Intelligence"
-		"DOTA_Tooltip_ability_item_youlingmodao_attack_add"					"+base damage"
+		"DOTA_Tooltip_ability_item_youlingmodao"						"Ghost knife"
+		"DOTA_Tooltip_ability_item_youlingmodao_Description"				"<font color='#CD00CD'>one of The Lord bones(Collect three Enchanted Lord bone, combine to Inactived:Incompleted World' keeper)</font>,Can <font color='#FF0000'>enchant in sky gorge</font>(teleport scroll in shop)or<font color='#FF0000'>extract to </font>gain king bone energy (extraction plant in shop)</font>\nActive:Ghost strike\nthe target takes 50% extra magical damage and deal <font color='#CD00CD'>intelligence * 10 </font> magical damage"
+		"DOTA_Tooltip_ability_item_youlingmodao_bonus_intellect"				"+Increase Intelligence"
+		"DOTA_Tooltip_ability_item_youlingmodao_attack_add"					"+damage"
 		
-		"DOTA_Tooltip_ability_item_youlingmodao_fumo"							"Enchanted:Ghost knife"
-		"DOTA_Tooltip_ability_item_youlingmodao_fumo_Description"				"<font color='#CD00CD'>one of The Lord bone(Collected three Enchanted Lord bone can be synthesized)</font><font color='#FF0000'>Already enchanting</font>\nActive:幽灵冲击\nTo the target's spell damage increased by 50% and cause<font color='#CD00CD'>intelligence * 10 </font> spell damage"
-		"DOTA_Tooltip_ability_item_youlingmodao_fumo_bonus_intellect"			"+Increased Intelligence"
-		"DOTA_Tooltip_ability_item_youlingmodao_fumo_attack_add"				"+base damage"
+		"DOTA_Tooltip_ability_item_youlingmodao_fumo"						"Enchanted:Ghost knife"
+		"DOTA_Tooltip_ability_item_youlingmodao_fumo_Description"				"<font color='#CD00CD'>one of The Lord bones(Collect three Enchanted Lord bone, combine to Inactived:Incompleted World' keeper)</font><font color='#FF0000'>Already enchanted</font>\nActive:Ghost strike\nthe target takes 50% extra magical damage and deal <font color='#CD00CD'>intelligence * 10 </font> magical damage"
+		"DOTA_Tooltip_ability_item_youlingmodao_fumo_bonus_intellect"				"+Increase Intelligence"
+		"DOTA_Tooltip_ability_item_youlingmodao_fumo_attack_add"				"+damage"
 		
-		"DOTA_Tooltip_ability_item_weiwancheng_hushi"						"未完成的护世之兵"
-		"DOTA_Tooltip_ability_item_weiwancheng_hushi_Description"			"<font color='#00B2EE'>three Enchanted Lord bone</font>(the lower left corner three boss drops,Or complete the difficulty to get 1 challenge of Feng Stele to Random gain)auto upgrade\n<font color='#FF0000'>Through kill 莫仓离 from (the upper right corner of the mysterious store called BOSS) to upgrade</font>"
-		"DOTA_Tooltip_ability_item_weiwancheng_hushi_attackdmg_add"			"+base damage"
-		"DOTA_Tooltip_ability_item_weiwancheng_hushi_shanbi"				"%dodge"
-		"DOTA_Tooltip_ability_item_weiwancheng_hushi_other_add"				"Increased all attributes"
+		"DOTA_Tooltip_ability_item_weiwancheng_hushi"						"Inactived:Incompleted world's keeper"
+		"DOTA_Tooltip_ability_item_weiwancheng_hushi_Description"			"Formed by combining<font color='#00B2EE'>three Enchanted Lord bone</font>(the lower left corner three boss drops,Or randomly appears in the reward of Fend stele Changelle 1)auto upgrade\n<font color='#FF0000'>by killing World's keeper.Mo (need to purchase scroll in the upper right corner of the mysterious store sto ummon BOSS)</font>"
+		"DOTA_Tooltip_ability_item_weiwancheng_hushi_attackdmg_add"			"+damage"
+		"DOTA_Tooltip_ability_item_weiwancheng_hushi_shanbi"				"%evasion"
+		"DOTA_Tooltip_ability_item_weiwancheng_hushi_other_add"				"Increase all attributes"
 		
-		"DOTA_Tooltip_ability_item_chuancheng_hushi"						"传承:未完成的护世之兵"
-		"DOTA_Tooltip_ability_item_chuancheng_hushi_Description"			"use <font color='#EE7600'> Blood seal </font> could <font color='#FF0000'>Upgrade in Shop</font>\n<font color='#FF0000'>Active: 止戈流</font> On the surrounding enemies own damage * 10 physical damage per second And restoring friendly 10% life!"
-		"DOTA_Tooltip_ability_item_chuancheng_hushi_attackdmg_add"			"+base damage"
-		"DOTA_Tooltip_ability_item_chuancheng_hushi_shanbi"					"%dodge"
-		"DOTA_Tooltip_ability_item_chuancheng_hushi_other_add"				"Increased all attributes"
+		"DOTA_Tooltip_ability_item_chuancheng_hushi"					"Actived:ncompleted world's keeper"
+		"DOTA_Tooltip_ability_item_chuancheng_hushi_Description"			"use <font color='#EE7600'> Blood seal </font> could <font color='#FF0000'>Upgrade in Shop</font>\n<font color='#FF0000'>Active: Bleeding </font> Deal 10 * damage to nearby enermy, meanwhile restore health to alies"
+		"DOTA_Tooltip_ability_item_chuancheng_hushi_attackdmg_add"			"+damage"
+		"DOTA_Tooltip_ability_item_chuancheng_hushi_shanbi"				"%evasion"
+		"DOTA_Tooltip_ability_item_chuancheng_hushi_other_add"				"Increase all attributes"
 		
-		"DOTA_Tooltip_ability_item_mokuang_hushi"						"护世之兵-墨狂"
-		"DOTA_Tooltip_ability_item_mokuang_hushi_Description"			"<font color='#EE7600'>传承:未完成的护世之兵</font> and <font color='#EE7600>Blood seal</font> could Upgrade in<font color='#FF0000'>Shop</font>\n<font color='#FF0000'>Permanent thirty percent reduction</font>\n<font color='#FF0000'>Active: 止戈流</font> On the surrounding enemies own damage * 10 physical damage per second And restoring friendly 10% life!"
-		"DOTA_Tooltip_ability_item_mokuang_hushi_attackdmg_add"			"+base damage"
-		"DOTA_Tooltip_ability_item_mokuang_hushi_shanbi"				"%dodge"
-		"DOTA_Tooltip_ability_item_mokuang_hushi_other_add"				"+Increased all attributes"
+		"DOTA_Tooltip_ability_item_mokuang_hushi"					"Completed World's keeper"
+		"DOTA_Tooltip_ability_item_mokuang_hushi_Description"			"formed by combining <font color='#EE7600'>Actived:Incompleted World's kepper</font> + <font color='#EE7600>Blood seal</font> + scroll in the shop.\n<font color='#FF0000'>Permanent 30 damage reduction</font>\n<font color='#FF0000'>Active: Bleeding </font> Deal 10 * damage to nearby enermy, meanwhile restore health to alies"
+		"DOTA_Tooltip_ability_item_mokuang_hushi_attackdmg_add"				"+damage"
+		"DOTA_Tooltip_ability_item_mokuang_hushi_shanbi"				"%evasion"
+		"DOTA_Tooltip_ability_item_mokuang_hushi_other_add"				"+Increase all attributes"
 
-		"DOTA_Tooltip_ability_item_zhanyi_01" 							"Challenge 1-Test from Venomous King Wen" 
-		"DOTA_Tooltip_ability_item_zhanyi_01_Description" 				"<font color='#030303'>Cannot be activated under Difficulty-Normal, please do not purchase </font>\n activate challenge for current difficulty, it will happen in next wave\n complete the challenge (<font color='#FF0000'> only can be completed once </font>) to gain unique reward, suggest to activate after wave 5\n If challenge fails then <font color='#FF0000'>GAME OVER</font>" 
-		"DOTA_Tooltip_ability_item_zhanyi_01_Lore" 						"Games would be more fun when you won with your last drop of blood- from Venomous King Wen " 
-		"DOTA_Tooltip_ability_item_zhanyi_02" 							" Challenge 2- Venomous King Wen against Crimson commander" 
-		"DOTA_Tooltip_ability_item_zhanyi_02_Description" 				"<font color='#030303'> Cannot be activated under Difficulty-Normal, please do not purchase </font>\n activate challenge for current difficulty, it will happen in next wave \n complete the challenge (<font color='#FF0000'> only can be completed once </font>) o gain unique reward, suggest to activate after wave 10\n If challenge fails then <font color='#FF0000'> GAME OVER </font>"
-		"DOTA_Tooltip_ability_item_zhanyi_03" 							" Challenge 3-Who's Who of recent 60 years" 
-		"DOTA_Tooltip_ability_item_zhanyi_03_Description" 				"<font color='#030303'> Cannot be activated under Difficulty-Normal, please do not purchase </font>\n activate challenge for current difficulty, it will happen in next wave \n complete the challenge (<font color='#FF0000'> only can be completed once </font>) to gain unique reward, suggest to activate after wave 15\n If challenge fails then <font color='#FF0000'> GAME OVER </font>\n suggest to activate after wave 15" 
-		"DOTA_Tooltip_ability_item_zhanyi_04"							 "Challenge 4-Battle in Tianyun Mountain " 
-		"DOTA_Tooltip_ability_item_zhanyi_04_Description"				 "<font color='#030303'> Cannot be activated under Difficulty-Normal, please do not purchase </font>\n activate challenge for current difficulty, it will happen in next wave \n complete the challenge (<font color='#FF0000'> only can be completed once </font>) to gain unique reward, suggest to activate after wave 15\n If challenge fails then <font color='#FF0000'> GAME OVER </font>\n suggest to activate after wave 15" 
-		"DOTA_Tooltip_ability_item_zhanyi_05" 							"Challenge 5- King Wen's Legend" 
-		"DOTA_Tooltip_ability_item_zhanyi_05_Description" 				"<font color='#030303'>Cannot purchase，only can be gained in Devil's Cliff 5 </font>\n<font color='#030303'> Under Difficulty-Hero, if you win this battle then you WIN THE GAME!! </font>\n activate the final battle, it will happen in next wave \n If challenge fails then <font color='#FF0000'> GAME OVER </font>\n can only be activated after wave 24!" 
+		"DOTA_Tooltip_ability_item_zhanyi_01" 						Challenge 1-Faith test from King Wen" 
+		"DOTA_Tooltip_ability_item_zhanyi_01_Description" 				"<font color='#030303'>Cannot be activated under Normal Diffucity, please do not purchase </font>\n activate challenge, it will start when next wave begins\nthe challenge (<font color='#FF0000'> only can be completed once </font>) to gain unique reward, suggest to activate after wave 5\n If you  fail the challenge then <font color='#FF0000'>GAME OVER</font>" 
+		"DOTA_Tooltip_ability_item_zhanyi_01_Lore" 					"Games would have more fun only if you are brave enough - from King Wen " 
+		"DOTA_Tooltip_ability_item_zhanyi_02" 						" Challenge 2- King Wen against Crimson commander" 
+		"DOTA_Tooltip_ability_item_zhanyi_02_Description" 				"<font color='#030303'>Cannot be activated under Normal Diffucity, please do not purchase </font>\n activate challenge, it will start when next wave begins\nthe challenge (<font color='#FF0000'> only can be completed once </font>) to gain unique reward, suggest to activate after wave 10\n If you fail the challenge then <font color='#FF0000'>GAME OVER</font>" 
+		"DOTA_Tooltip_ability_item_zhanyi_03" 						" Challenge 3-A reocrd in 60 years" 
+		"DOTA_Tooltip_ability_item_zhanyi_03_Description" 				"<font color='#030303'> "<font color='#030303'>Cannot be activated under Normal Diffucity, please do not purchase </font>\n activate challenge, it will start when next wave begins\nthe challenge (<font color='#FF0000'> only can be completed once </font>) to gain unique reward, suggest to activate after wave 15\n If you fail the challenge then <font color='#FF0000'>GAME OVER</font>" 
+		"DOTA_Tooltip_ability_item_zhanyi_04"						"Challenge 4-Battle in Sky Mountain " 
+		"DOTA_Tooltip_ability_item_zhanyi_04_Description"				 "<font color='#030303'> "<font color='#030303'>Cannot be activated under Normal Diffucity, please do not purchase </font>\n activate challenge, it will start when next wave begins\nthe challenge (<font color='#FF0000'> only can be completed once </font>) to gain unique reward, suggest to activate after wave 20\n If you fail the challenge then <font color='#FF0000'>GAME OVER</font>" 
+		"DOTA_Tooltip_ability_item_zhanyi_05" 						"Challenge 5- King Wen's Legend" 
+		"DOTA_Tooltip_ability_item_zhanyi_05_Description" 				"<font color='#030303'>Cannot be purchased，only can be gained in Devil's Cliff 5 </font>\n<font color='#030303'> Under Hero Difficulty, if you win this battle then you WIN THE GAME!! </font>\n activate the final battle, it will start when next wave begins \n If you fail the challenge then <font color='#FF0000'> GAME OVER </font>\n can only be activated after wave 24!" 
 
 		"DOTA_Tooltip_ability_item_zhanyi_reward01" 					" Challenge 1 Reward" 
 		"DOTA_Tooltip_ability_item_zhanyi_reward01_Description" 		" Active：Gain random reward" 
 		"DOTA_Tooltip_ability_item_zhanyi_reward02" 					" Challenge 2 Reward " 
 		"DOTA_Tooltip_ability_item_zhanyi_reward02_Description" 		" Active：Gain random reward " 
-		"DOTA_Tooltip_ability_item_zhanyi_reward03"						" Challenge 3 Reward " 
+		"DOTA_Tooltip_ability_item_zhanyi_reward03"					" Challenge 3 Reward " 
 		"DOTA_Tooltip_ability_item_zhanyi_reward03_Description" 		" Active：Gain random reward " 
 		"DOTA_Tooltip_ability_item_zhanyi_reward04" 					" Challenge 4 Active " 
 		"DOTA_Tooltip_ability_item_zhanyi_reward04_Description" 		" Active：Gain random reward " 
 
 	
 
-		"DOTA_Tooltip_ability_item_jidiwudi" 							"Base Invincibility " 
-		"DOTA_Tooltip_ability_item_jidiwudi_Description" 				" Base immunity to all kinds of attacks after this item is activated!!!" 
+		"DOTA_Tooltip_ability_item_jidiwudi" 						"Base protection " 
+		"DOTA_Tooltip_ability_item_jidiwudi_Description" 				" Base immuses to all attack after this item is activated!!! Can only be purchased once" 
 		"DOTA_Tooltip_ability_item_jidiwudi_duration" 					" Duration" 
-		"DOTA_Tooltip_ability_item_jidiwudi_Description_Lore" 			"Back to Back" 
+		"DOTA_Tooltip_ability_item_jidiwudi_Description_Lore" 				"Back to Back" 
 
 		"DOTA_Tooltip_ability_item_zhandao_01" 						"Activate Devil's Cliff 1"
-		"DOTA_Tooltip_ability_item_zhandao_01_Description"			" Activate Devil's Cliff, challenge DEMONS from the Hell, has a chance to gain <font color='#00B2EE'>Fine Iron </font>"
+		"DOTA_Tooltip_ability_item_zhandao_01_Description"			" Activate Devil's Cliff, challenge DEMONS from the Hell, has a chance to gain <font color='#00B2EE'>Crude Iron </font>"
 		"DOTA_Tooltip_ability_item_zhandao_02" 						"Activate Devil's Cliff 2" 
-		"DOTA_Tooltip_ability_item_zhandao_02_Description"			 " Activate Devil's Cliff, challenge DEMONS from the Hell, has a chance to gain <font color='#00B2EE'> Skull Curse </font>" 
+		"DOTA_Tooltip_ability_item_zhandao_02_Description"			 " Activate Devil's Cliff, challenge DEMONS from the Hell, has a chance to gain <font color='#00B2EE'> Cursed skull</font>" 
 		"DOTA_Tooltip_ability_item_zhandao_03" 						" Activate Devil's Cliff 3" 
-		"DOTA_Tooltip_ability_item_zhandao_03_Description"			 " Activate Devil's Cliff, challenge DEMONS from the Hell, has a chance to gain <font color='#CD00CD'> Power-Boosted pill </font>" 
+		"DOTA_Tooltip_ability_item_zhandao_03_Description"			 " Activate Devil's Cliff, challenge DEMONS from the Hell, has a chance to gain <font color='#CD00CD'> Power Booster </font>" 
 		"DOTA_Tooltip_ability_item_zhandao_04" 						" Activate Devil's Cliff 4" 
 		"DOTA_Tooltip_ability_item_zhandao_04_Description" 			" Activate Devil's Cliff, challenge DEMONS from the Hell, has a chance to gain reward items" 
 
@@ -717,41 +718,40 @@
 
 		//末世装备
 		"DOTA_Tooltip_ability_item_moshi_weiduandadetiejing" 				"Crude Iron" 
-		"DOTA_Tooltip_ability_item_moshi_weiduandadetiejing_Description" 	" A piece of Iron from the Hell\n Active: Deals magical damage to 1 unit around \n can be upgraded by <font color='#00B2EE'> Skull Curse </font> " 
-		"DOTA_Tooltip_ability_item_moshi_weiduandadetiejing_basedmg" 		"Basic damage" 
+		"DOTA_Tooltip_ability_item_moshi_weiduandadetiejing_Description" 	" A piece of Iron from the Hell\n Active: Deals magical damage to one nearby unit randomly \n can combine with <font color='#00B2EE'> Skull Curse </font>, become Fine Iron " 
+		"DOTA_Tooltip_ability_item_moshi_weiduandadetiejing_basedmg" 		"Damage" 
 		"DOTA_Tooltip_ability_item_moshi_weiduandadetiejing_zhilixishu" 	" Intelligence multiplier" 
-		"DOTA_Tooltip_ability_item_moshi_weiduandadetiejing_intellect"		" Increased Intelligence" 
+		"DOTA_Tooltip_ability_item_moshi_weiduandadetiejing_intellect"		" Increase Intelligence" 
 
-		"DOTA_Tooltip_ability_item_moshi_tiejing"							 " Fine Iron" 
-		"DOTA_Tooltip_ability_item_moshi_tiejing_Description" "Could upgrade with<font color='#00B2EE'> 鲁家锻造书 </font>and<font color='#00B2EE'> 锋海异铁 </font>(Chances to gain in Devil's Cliff 2) \n A piece of Iron from the Hell \n Passive: Deals magical damage to all units around every 5 seconds" 
-		"DOTA_Tooltip_ability_item_moshi_tiejing_basedmg" 					"Basic damage " 
+		"DOTA_Tooltip_ability_item_moshi_tiejing"					" Fine Iron" 
+		"DOTA_Tooltip_ability_item_moshi_tiejing_Description" "Could combine with<font color='#00B2EE'> Hammersmith's scroll </font>(Drop in Thunder Mountain)and<font color='#00B2EE'> Blademaster's Blade (Summon in secrest shop on the top right corner)</font>\n A piece of Iron from the Hell \n Passive: Deals magical damage to all nearby units every 5 seconds" 
+		"DOTA_Tooltip_ability_item_moshi_tiejing_basedmg" 					"Damage " 
 		"DOTA_Tooltip_ability_item_moshi_tiejing_zhilixishu" 				"Intelligence multiplier " 
-		"DOTA_Tooltip_ability_item_moshi_tiejing_intellect" 				" Increased Intelligence" 
+		"DOTA_Tooltip_ability_item_moshi_tiejing_intellect" 				" Increase Intelligence" 
 
 
 		"DOTA_Tooltip_ability_item_cailiao_kusuizhouyuan" 					" Skull Curse" 
-		"DOTA_Tooltip_ability_item_cailiao_kusuizhouyuan_Description" " Upgrade with <font color='#9ACD32'> Crude Iron </font> /n THE FIRST DEMON KING comes when this item appears" 
+		"DOTA_Tooltip_ability_item_cailiao_kusuizhouyuan_Description" " combine with <font color='#9ACD32'> Crude Iron </font> become Fine Iron/n Evil is back when this item appears" 
 
-		"DOTA_Tooltip_ability_item_fenghuajuedai"							 "Unmatched Weapon" 
-		"DOTA_Tooltip_ability_item_fenghuajuedai_Description" 				 "Gift from master smith, to replace World's keepers, one of the best weapons in the world \n<font color='#FF0000'>chances to increase 100 all attributes by killing enemies (only can be triggered once in every 10 seconds ) </font>\n Passive: damage to nearby units is <font color='#FF0000'> increased 30% permanently </font>\n used with <font color='#FF0000'> Giant furnace</font>(<font color='#030303'>won't drop under Difficulty-Normal </font>)to <font color='#FF0000'>upgrade</font>" //item_jiuweifenghua
-
+		"DOTA_Tooltip_ability_item_fenghuajuedai"						"Unmatched Weapon" 
+		"DOTA_Tooltip_ability_item_fenghuajuedai_Description" 				 "Masterpiece from Blademaster.D, trying to replace World's keepers, one of the best weapons in the world \n<font color='#FF0000'>it has a chance to increase 100 all attributes when you kill enemy (only can be triggered once in every 10 seconds ) </font>\n Passive: Permanently increases the damage taken by nearby enermies<font color='#FF0000'> increase 30% </font>\n combine with <font color='#FF0000'> Giant furnace</font>(<font color='#030303'>won't drop under Normal Difficulty</font>),become <font color='#FF0000'>Unmatched Phoenix</font>" 
 
 		//item_jiuweifenghua
 
-		"DOTA_Tooltip_ability_item_jiuweifenghua" 							" Unmatched Weapon " 
-		"DOTA_Tooltip_ability_item_jiuweifenghua_Description"				 " Gift from master smith, to replace World's keepers, one of the best weapons in the world \n Active:<font color='#FF0000'> Semi-Devils </font> Gain extra half of basic attributes(<font color='#FF0000'> Intelligence </font> doubled!)\n Passive: damage to nearby units is <font color='#FF0000'> increased 30% permanently </font>\n<font color='#FF0000'> chances to increase 100 all attributes by killing enemies (only can be triggered once in every 10 seconds )</font>" 
+		"DOTA_Tooltip_ability_item_jiuweifenghua" 						" Unmatched Phoenix " 
+		"DOTA_Tooltip_ability_item_jiuweifenghua_Description"				 " Masterpiece from Blademaster.D, trying to replace World's keepers, one of the best weapons in the world \n Active:<font color='#FF0000'> Semi-Devils </font> Gain 50% of strength and agility attributes, and gain 100% of (<font color='#FF0000'> Intelligence </font>)\n Passive: Permanently increases the damage taken by nearby enermies<font color='#FF0000'> increase 30% </font>\n<font color='#FF0000'>it has a chance to increase 100 all attributes when you kill enemy (only can be triggered once in every 10 seconds ) </font>"
 
 
-		"DOTA_Tooltip_ability_item_qinfengyi" 								" Ancient Windbreaker " 
-		"DOTA_Tooltip_ability_item_qinfengyi_Description" 					"<font color='#CD00CD'> Ancient Windbreaker </font>\n<font color='#FF0000'>Max</font> Upgrade Materials" 
-		"DOTA_Tooltip_ability_item_qinfengyi_armor" 						"+ Armor " 
-		"DOTA_Tooltip_ability_item_qinfengyi_bonus_health" 					"+HP" 
+		"DOTA_Tooltip_ability_item_qinfengyi" 							" Ancient Windbreaker " 
+		"DOTA_Tooltip_ability_item_qinfengyi_Description" 					"<font color='#CD00CD'> Ancient Windbreaker </font>\n already reach <font color='#FF0000'>Max</font> level" 
+		"DOTA_Tooltip_ability_item_qinfengyi_armor" 						"+Armor " 
+		"DOTA_Tooltip_ability_item_qinfengyi_bonus_health" 					"+MAX HP" 
 		"DOTA_Tooltip_ability_item_qinfengyi_movespeed"						 "+Movement speed" 
 		"DOTA_Tooltip_ability_item_qinfengyi_regen" 						"%HP regeneration per second" 
-		"DOTA_Tooltip_ability_item_qinfengyi_allpropertyadd"				 "+ all attributes" 
+		"DOTA_Tooltip_ability_item_qinfengyi_allpropertyadd"				 	"+increase all attributes" 
 
 		"DOTA_Tooltip_ability_item_cailiao_qinfengyi" 						"Upgrade Material- Ancient Windbreaker " 
-		"DOTA_Tooltip_ability_item_cailiao_qinfengyi_Description" 			"can upgrade <font color='#CD00CD'> Knight Cloak</font>to<font color='#EE7600'> Ancient Windbreaker </font>"
+		"DOTA_Tooltip_ability_item_cailiao_qinfengyi_Description" 				"can upgrade <font color='#CD00CD'> Knight Cloak</font>to<font color='#EE7600'> Ancient Windbreaker </font>"
 
 
 //<font color='#030303'></font>//#030303黑色
