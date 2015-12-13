@@ -5,6 +5,7 @@
 	{		
 			//==============================================================================================
 		//this item name is denifine by "you're my a little apple"(steam id)
+		//Correction made by "赤い彗星"(steam id)
 		//===============================================================================================
 		//天地风云录 King Wen's legend        天地烘炉Giant furnace      竞魔跨限Semi-Devils      秦风衣Ancient Windbreaker
 		//任侠衣Knight Cloak      枯髓咒怨Cursed skull      精铁Fine Iron     未锻打的铁精Crude Iron     纳元丹 Power Booster
@@ -48,9 +49,9 @@
 		"npc_leishou"                                         "the beast"
 		"npc_boss_xuanhu"                                     "the fox"
 		"npc_boss_dihuatiye"                                  "blood-sworld3"
-        "npc_boss_duanshenfeng"                         	 "段神锋"
+        "npc_boss_duanshenfeng"                         	 "Blademaster.D"
         "npc_boss_shaliya"                                      "莎莉亚"
-        "npc_boss_mocangli"                                     "莫仓离"
+        "npc_boss_mocangli"                                     "World's keeper.M"
         "npc_boss_digui"                                          "Ghost emperor"
         "npc_boss_finaboss"                                         "Boss"
         "npc_jianming"                                      "剑铭"
@@ -76,81 +77,81 @@
         "npc_fenyun_level3_boss2"                           "level3-boss2"
 
         "DOTA_Tooltip_ability_qiaorulai_xuasharulai"            "血煞如来"
-        "DOTA_Tooltip_ability_qiaorulai_xuasharulai_Description"            "Getting back into a ranged attack, have a chance <font color='#FF0000'>  hit </font>  the enemy at the same time < font color = # FF0000" > heal </font>  their own health"
+        "DOTA_Tooltip_ability_qiaorulai_xuasharulai_Description"            "Transfer to a ranged hero, have a chance to heal </font>  himself <font color='#FF0000'>  when attacks </font>  the enemy< font color = # FF0000" >"
         "DOTA_Tooltip_ability_qiaorulai_xuasharulai_duration"            "+Change the duration of the"
-        "DOTA_Tooltip_ability_qiaorulai_xuasharulai_utilchance"            "%Special attack probability"
+        "DOTA_Tooltip_ability_qiaorulai_xuasharulai_utilchance"            "%Chance to heal"
         
         "DOTA_Tooltip_ability_qiaorulai_rulaishengying"         "如来圣印"
-        "DOTA_Tooltip_ability_qiaorulai_rulaishengying_Description"     "Enemy around temporary after reading article, dizziness, and cause with <font color='#FF0000'>  strength </font> holy damage"
+        "DOTA_Tooltip_ability_qiaorulai_rulaishengying_Description"     "After a short cast delay ,stun surrounding enermy and cause with <font color='#FF0000'>  strength </font> holy damage"
         "DOTA_Tooltip_ability_qiaorulai_rulaishengying_dmgadd"      "+strength multiplier "
-        "DOTA_Tooltip_ability_qiaorulai_rulaishengying_radius"      "radius of influence"
+        "DOTA_Tooltip_ability_qiaorulai_rulaishengying_radius"      "Radius"
         
         "DOTA_Tooltip_ability_qiaorulai_xuewenmowen"            "血纹魔瘟"
-        "DOTA_Tooltip_ability_qiaorulai_xuewenmowen_Description"            "来源魔世的魔瘟"
+        "DOTA_Tooltip_ability_qiaorulai_xuewenmowen_Description"            "A devil from another world"
         "DOTA_Tooltip_ability_qiaorulai_xuewenmowen_bonus_health_regen"         "+heal hp per second"
         "DOTA_Tooltip_ability_qiaorulai_xuewenmowen_bonus_str"         "+ Increase strength"
         
         "DOTA_Tooltip_ability_qiaorulai_rulaimoyan"                   "如来魔焰"
-        "DOTA_Tooltip_ability_qiaorulai_rulaimoyan_Description"       "Buddha fire swept through a line of the enemy, with < font color = "# FF0000 "> strength </font> related magical damage, affected by the enemy for 3 seconds will not restore life \ n the default < font color = # FF0000" > strength </font> multiplier: 5"
-        "DOTA_Tooltip_ability_qiaorulai_rulaimoyan_dragon_slave_distance"   "distance"
+        "DOTA_Tooltip_ability_qiaorulai_rulaimoyan_Description"       "Buddha fire swept through a line of the enemy, with < font color = "# FF0000 "> strength </font> related magical damage, affected enemy are prevented from healing or regen hp for 3 seconds \ n the default < font color = # FF0000" > strength </font> multiplier: 5"
+        "DOTA_Tooltip_ability_qiaorulai_rulaimoyan_dragon_slave_distance"   "Range"
 
 		"DOTA_Tooltip_ability_QC_liangyi_02"					"碧潭映月"
-		"DOTA_Tooltip_ability_QC_liangyi_02_Description"        "碧潭映月会对它路线上最近一名敌人造成一次性魔法伤害"
-       	"DOTA_Tooltip_ability_QC_liangyi_02_Lore"        		"很耗蓝！！"
+		"DOTA_Tooltip_ability_QC_liangyi_02_Description"        "Deal magical damage to the closest enermy on the path"
+       	"DOTA_Tooltip_ability_QC_liangyi_02_Lore"        		"Mana cost is very high"
         "DOTA_Tooltip_ability_QC_liangyi_02_damage"       		"Basic magical damage："
         "DOTA_Tooltip_ability_QC_liangyi_02_inip"              "damage related to <font color='#FF0000'>intelligence</font> multiplier"
         
         "DOTA_Tooltip_ability_normalability_tobase"             "Teleport"
 		
 		"DOTA_Tooltip_ability_QC_bagua_01"						夕照古峰"
-		"DOTA_Tooltip_ability_QC_bagua_01_Description"			"The target of 0.1 seconds stun enemy, weaken enemy spells and cause significant slowing effect"
-		"DOTA_Tooltip_ability_QC_bagua_01_duration"				"Seal the magic effect of time"
+		"DOTA_Tooltip_ability_QC_bagua_01_Description"			" Deal 0.1 seconds stun on the target, reduce its magical resistance and significantly slow the target"
+		"DOTA_Tooltip_ability_QC_bagua_01_duration"				"Silence of time"
 		"DOTA_Tooltip_ability_QC_bagua_01_abilitydamage"		"Base spell damage"
 		"DOTA_Tooltip_ability_QC_bagua_01_manacost"				"base mana cost"
-		"DOTA_Tooltip_ability_QC_bagua_01_mokang_reduce"		"%Unit magic resistance decreases"
+		"DOTA_Tooltip_ability_QC_bagua_01_mokang_reduce"		"%Unit magical resistance decreases"
 
-		"DOTA_Tooltip_QC_bagua_01_chengmo"        				"Silent the target, and reduce the movement speed and the magic resistance "
+		"DOTA_Tooltip_QC_bagua_01_chengmo"        				"Silent the target, and reduce the move speed and magical resistance "
 
 		"DOTA_Tooltip_ability_QC_shengtaiji_02"						"潮信双涛"	
-		"DOTA_Tooltip_ability_QC_shengtaiji_02_Description"			"To itself as the center, per second to nearby enemy cause based on their own <font color='#FF0000'> intelligence</font>, and slows the movement around the enemy's attack"
+		"DOTA_Tooltip_ability_QC_shengtaiji_02_Description"			"Create a aura which, damamge nearby enermy every seocnd based on his <font color='#FF0000'> intelligence</font>, and slow attack and movement speed"
 		"DOTA_Tooltip_ability_QC_shengtaiji_02_inip"				"per <font color='#FF0000'>intelligence</font> multiplier damage:"
-		"DOTA_Tooltip_ability_QC_shengtaiji_02_radius"				"radius of influence:"
-		"DOTA_Tooltip_ability_QC_shengtaiji_02_slowp"        		"%Reduce the attack and movement speed by percentage:"
+		"DOTA_Tooltip_ability_QC_shengtaiji_02_radius"				"Radius:"
+		"DOTA_Tooltip_ability_QC_shengtaiji_02_slowp"        		"%Slow the attack and movement speed by percentage:"
 		"DOTA_Tooltip_QC_shengtaiji_buff_01" 						"潮信双涛"		
-		"DOTA_Tooltip_QC_shengtaiji_buff_01_Description"			"Per second to nearby enemy cause based on their own <font color='#FF0000'> intelligence </font>, and slows the movement around the enemy"
+		"DOTA_Tooltip_QC_shengtaiji_buff_01_Description"			"Damamge nearby enermy every seocnd based on his <font color='#FF0000'> intelligence </font>, and slow attack and movement speed"
 		"DOTA_Tooltip_slow_attackandmove"							"潮信双涛"
 		"DOTA_Tooltip_slow_attackandmove_Description"  				"降低%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%攻击与移动速度"
 		
 		"DOTA_Tooltip_ability_QC_ziqidonglai_01"					"飞星穿月"
-		"DOTA_Tooltip_ability_QC_ziqidonglai_01_Description"		"tered into a state of eruption, increase the range and value of intelligence and deals area damage (<font color='#FF0000'> intelligence multiplier: 1 </font>)!!!!!!"
-		"DOTA_Tooltip_ability_QC_ziqidonglai_01_inip"				"The multiplier of additional damage each hit (based on intelligence)"
+		"DOTA_Tooltip_ability_QC_ziqidonglai_01_Description"		"enter brust mode, increase attack range and his own intelligence and add on area damage per atttack(<font color='#FF0000'> intelligence multiplier: 1 </font>)!!!!!!"
+		"DOTA_Tooltip_ability_QC_ziqidonglai_01_inip"				"The multiplier of additional damage each attack (based on intelligence)"
 		"DOTA_Tooltip_ability_QC_ziqidonglai_01_atarange"			"Attack range increased:"
 		"DOTA_Tooltip_ability_QC_ziqidonglai_01_inipadd"			"Intelligence increased:"	
 		"DOTA_Tooltip_QC_ziqidonglai_buff_01"						"飞星穿月！"
-		"DOTA_Tooltip_QC_ziqidonglai_buff_01_Description"			"十分强大\n该单位攻击距离与intelligence得到了提高，攻击附加有<font color='#FF0000'>雷霆</font>之力！"
+		"DOTA_Tooltip_QC_ziqidonglai_buff_01_Description"			"Becoming powering, increase attack range and intelligence，add on <font color='#FF0000'>Thunder</font>power per attack"
 		
 		"DOTA_Tooltip_ability_fenzhongzhuodao_tabushasuimeng"                 "踏步杀-碎梦"
-	    "DOTA_Tooltip_ability_fenzhongzhuodao_tabushasuimeng_Description"     "<font color='#9ACD32'>他们是我杀的，全部都是。</font>"
+	    "DOTA_Tooltip_ability_fenzhongzhuodao_tabushasuimeng_Description"     "<font color='#9ACD32'>I kill them, all of them。</font>"
 		"DOTA_Tooltip_ability_fenzhongzhuodao_tabushasuimeng_radius"           "+Attack Range"
 		"DOTA_Tooltip_ability_fenzhongzhuodao_tabushasuimeng_creep_damage_penalty"     "%The extra attack damage"
 		
 		"DOTA_Tooltip_ability_fenzhongzhuodao_xiaosuidaobu"               "小碎刀步"
-		"DOTA_Tooltip_ability_fenzhongzhuodao_xiaosuidaobu_Description"    "Attacks have time add a <font color='#FF0000'> limit attack rate </font>"
-		"DOTA_Tooltip_ability_fenzhongzhuodao_xiaosuidaobu_randomchangce"    "%Additional risk"
+		"DOTA_Tooltip_ability_fenzhongzhuodao_xiaosuidaobu_Description"    "Attacks have a chance to active a <font color='#FF0000'> additional attack, which has highest attack speed </font>"
+		"DOTA_Tooltip_ability_fenzhongzhuodao_xiaosuidaobu_randomchangce"    "%Chance"
 		
 		"DOTA_Tooltip_ability_fenzhongzhuodao_shukuang"               "掠步杀・疏狂"
-		"DOTA_Tooltip_ability_fenzhongzhuodao_shukuang_Description"               "Active: enter <font color ='#CD00CD'> physical immune </font> status \n passive: the release of a 50% chance to make their own skills to enter <font color ='#CD00CD'> physical immune </font>"
+		"DOTA_Tooltip_ability_fenzhongzhuodao_shukuang_Description"               "Active: enter <font color ='#CD00CD'> physical immune </font> status \n passive: 50% chance to enter <font color ='#CD00CD'> physical immune </font> when casts a spell"
 		"DOTA_Tooltip_ability_fenzhongzhuodao_shukuang_durationtime"  "+time of duration"
 		
 		"DOTA_Tooltip_ability_fengzhongzhuodao_fengyue"                       "醉生梦死"
-		"DOTA_Tooltip_ability_fengzhongzhuodao_fengyue_Description"              "Enter <font color='#CD00CD'> 醉生梦死 </font> state, attacks certain time additional with <font color='#FF0000'> all </font> attributes related to huge harm \n duration 30 seconds"
-		"DOTA_Tooltip_ability_fengzhongzhuodao_fengyue_critchance"              "%Proc chance"
+		"DOTA_Tooltip_ability_fengzhongzhuodao_fengyue_Description"              "Enter <font color='#CD00CD'> drunk </font> state, attacks have a chance to gain huge damage according to <font color='#FF0000'> all </font> attributes \n duration 30 seconds"
+		"DOTA_Tooltip_ability_fengzhongzhuodao_fengyue_critchance"              "%chance"
 		
 		"DOTA_Tooltip_ability_jianwuji_yijianwuji"                    "无极剑法"
-		"DOTA_Tooltip_ability_jianwuji_yijianwuji_Description"                    "无极剑，剑无极，剑招三式，敌无命。"
+		"DOTA_Tooltip_ability_jianwuji_yijianwuji_Description"                    "Create a aura let alies gain attack speed"
 		"DOTA_Tooltip_ability_jianwuji_yijianwuji_radius"                        "radius of influence"
-		"DOTA_Tooltip_ability_jianwuji_yijianwuji_bonus_attack_speed"            "Increase Attack Speed"
-		"DOTA_Tooltip_ability_jianwuji_yijianwuji_bonus_armor"                    "Add Armor"
+		"DOTA_Tooltip_ability_jianwuji_yijianwuji_bonus_attack_speed"            "Increased Attack Speed"
+		"DOTA_Tooltip_ability_jianwuji_yijianwuji_bonus_armor"                    "Increased Armor"
 		
 		"DOTA_Tooltip_ability_jianwuji_jianyipo"                            "剑一    破"
 		"DOTA_Tooltip_ability_jianwuji_jianyipo_Description"                "Every once in a while can damage to the enemy a <font color='# FF0000'> crit </font>  damage, and reduce the enemy attack speed"
