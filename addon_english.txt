@@ -2,7 +2,7 @@
 {
 	"Language"		"English"
 	"Tokens"
-	{		changelle
+	{		scroll
 			//==============================================================================================
 		//this item name is denifine by "you're my a little apple"(steam id)
 		//Correction made by "赤い彗星"(steam id)
@@ -306,13 +306,13 @@
         "DOTA_Tooltip_ability_item_fengyun_reward03_Description"            "Active: Use to get reward,Have chance to get epic item!"
         
 		"DOTA_Tooltip_ability_item_shuaguai_jianming"				"challenge-Imperial clothes Upgrade"
-		"DOTA_Tooltip_ability_item_shuaguai_jianming_Description"		"Use it near the green cirlce on the lefthand side of base to start challenge!\n<font color='#CD00CD'>swallow clothes</font> Upgrade to <font color='#CD00CD'>Imperial clothes</font>"
+		"DOTA_Tooltip_ability_item_shuaguai_jianming_Description"		"Use it near the green circle on the lefthand side of base to start challenge!\n<font color='#CD00CD'>swallow clothes</font> Upgrade to <font color='#CD00CD'>Imperial clothes</font>"
 		
 		"DOTA_Tooltip_ability_item_shuaguai_yuanfeng"				"challenge-Luck clothes Upgrade"
-		"DOTA_Tooltip_ability_item_shuaguai_yuanfeng_Description"		"Use it near the green cirlce on the lefthand side of base to start challenge!\n<font color='#CD00CD'>Imperial clothes</font> Upgrade to <font color='#CD00CD'>Luck clothes</font>"
+		"DOTA_Tooltip_ability_item_shuaguai_yuanfeng_Description"		"Use it near the green circle on the lefthand side of base to start challenge!\n<font color='#CD00CD'>Imperial clothes</font> Upgrade to <font color='#CD00CD'>Luck clothes</font>"
 		
 		"DOTA_Tooltip_ability_item_shuaguai_renxia"				"challenge-Knight Cloak Upgrade"
-		"DOTA_Tooltip_ability_item_shuaguai_renxia_Description"			"Use it near the green cirlce on the lefthand side of base to start challenge!\n<font color='#CD00CD'>Luck clothes</font> Upgrade to <font color='#CD00CD'>Knight Cloak</font>"
+		"DOTA_Tooltip_ability_item_shuaguai_renxia_Description"			"Use it near the green circle on the lefthand side of base to start challenge!\n<font color='#CD00CD'>Luck clothes</font> Upgrade to <font color='#CD00CD'>Knight Cloak</font>"
 		
 		"DOTA_Tooltip_ability_item_jidishengji_01"                            "Enhance -Base 1"
 		"DOTA_Tooltip_ability_item_jidishengji_01_Description"                "Add Base Hp,Armor,attack damage,and hp regen(if you want to win,you must buy it~)"
@@ -327,7 +327,7 @@
 		"DOTA_Tooltip_ability_item_xinrenguanghuan_armor_reduce"			"reduce Armor"
 		
 		"DOTA_Tooltip_ability_item_recipe_xinrenguanghuan"				"Upgrade Novice aura"
-		"DOTA_Tooltip_ability_item_recipe_xinrenguanghuan_Description"		"Could upgrade novices medal to Novice aura"
+		"DOTA_Tooltip_ability_item_recipe_xinrenguanghuan_Description"		"Could upgrade novice medal to Novice aura"
 		
 		"DOTA_Tooltip_ability_item_zhujueguanghuan"					"Star aura"
 		"DOTA_Tooltip_ability_item_zhujueguanghuan_Description"				"Could upgrade Novice aura to Star aura\nStar aura,Can weaken the surrounding enemies\nCould Teleport <font color='#00B2EE'>Thunder mountain</font> to upgrade"
@@ -550,7 +550,7 @@
 		
 		
 		"DOTA_Tooltip_ability_item_cailiao_xuezhijingying"					"Blood seal"
-		"DOTA_Tooltip_ability_item_cailiao_xuezhijingying_Description"				"Call Emperor Ghost in top right corner,you can get it after kill the boss\nCould upgrade with <font color='#EE7600'>Incomplete World's keeper</font>\n A scroll is needed from <font color='#FF0000'>shop</font>"
+		"DOTA_Tooltip_ability_item_cailiao_xuezhijingying_Description"				"Call Emperor Ghost in top right corner,you can get it after kill the boss\nCould upgrade with <font color='#EE7600'>Incomplete World's keeper</font>\n Recipe is also needed from <font color='#FF0000'>shop</font>"
 
 		"DOTA_Tooltip_ability_item_piaomiao_pokongfeimie"					"Death"
 		"DOTA_Tooltip_ability_item_piaomiao_pokongfeimie_Description"				"Kill creep on the lefthand side of base may drop it\nCould combine with<font color='#00B2EE'>Phantom</font> and <font color='#00B2EE'>Wen's swordsmanship</font>,become Sword Samsara"
@@ -615,7 +615,7 @@
 		
 		
 		"DOTA_Tooltip_ability_item_xinshouxunzhang"					"Novices medal"
-		"DOTA_Tooltip_ability_item_xinshouxunzhang_Description"				"Active:heal 1000 hp\nCould farm some money on the <font color='#9ACD32'> righthand side of base</font> at the beginning\nCould upgrade to<font color='#9ACD32'>Novice aura</font>(scroll in shop)or upgrade to<font color='#9ACD32'>Wen's swordsmanship</font> (with Wen's mind and swordmanship)"
+		"DOTA_Tooltip_ability_item_xinshouxunzhang_Description"				"Active:heal 1000 hp\nCould farm some money on the <font color='#9ACD32'> righthand side of base</font> at the beginning\nCould upgrade to<font color='#9ACD32'>Novice aura</font>(recipe in shop)or upgrade to<font color='#9ACD32'>Wen's swordsmanship</font> (with Wen's mind and swordmanship)"
 		"DOTA_Tooltip_ability_item_xinshouxunzhang_allpropertyadd"	 		"+Increased all attributes"
 		"DOTA_Tooltip_ability_item_xinshouxunzhang_healthadd"				"+heal hp"
 		
@@ -670,7 +670,7 @@
 		"DOTA_Tooltip_ability_item_chuancheng_hushi_other_add"				"Increase all attributes"
 		
 		"DOTA_Tooltip_ability_item_mokuang_hushi"					"Completed World's keeper"
-		"DOTA_Tooltip_ability_item_mokuang_hushi_Description"			"formed by combining <font color='#EE7600'>Actived:Incompleted World's kepper</font> + <font color='#EE7600>Blood seal</font> + scroll in the shop.\n<font color='#FF0000'>Permanent 30 damage reduction</font>\n<font color='#FF0000'>Active: Bleeding </font> Deal 10 * damage to nearby enermy, meanwhile restore health to alies"
+		"DOTA_Tooltip_ability_item_mokuang_hushi_Description"			"formed by combining <font color='#EE7600'>Actived:Incompleted World's kepper</font> + <font color='#EE7600>Blood seal</font> + recipe in the shop.\n<font color='#FF0000'>Permanent 30 damage reduction</font>\n<font color='#FF0000'>Active: Bleeding </font> Deal 10 * damage to nearby enermy, meanwhile restore health to alies"
 		"DOTA_Tooltip_ability_item_mokuang_hushi_attackdmg_add"				"+damage"
 		"DOTA_Tooltip_ability_item_mokuang_hushi_shanbi"				"%evasion"
 		"DOTA_Tooltip_ability_item_mokuang_hushi_other_add"				"+Increase all attributes"
